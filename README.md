@@ -12,7 +12,7 @@ I’m transitioning into a DevOps Engineer role, leveraging my expertise in Pyth
 
 💼 Aspiring Role: DevOps Engineer
 
-📧 Email: amitnplindia21@gmail.com
+📧 Email: amitkaushik337@gmail.com
 
 🔭 I’m currently working on NTP Server Monitoring Script and Flask Alert System
 
@@ -28,7 +28,7 @@ I’m transitioning into a DevOps Engineer role, leveraging my expertise in Pyth
 
 💬 Ask me about Python, Flask, Docker, Git, NTP
 
-📫 How to reach me amitnplindia21@gmail.com
+📫 How to reach me amitkaushik337@gmail.com
 
 ⚡ Fun fact I love tackling network synchronization challenges
 
