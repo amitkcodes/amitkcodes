@@ -1,78 +1,75 @@
 Hi 👋, I'm Amit Kaushik
 
-A passionate DevOps enthusiast and Python developer from India
+Crafting scalable systems with automation and monitoring from India
   
 
   
 
 About Me
-I’m transitioning into a DevOps Engineer role, leveraging my expertise in Python and system automation. My projects include a Flask-based alert system for real-time notifications and an NTP server monitoring script for precise time synchronization. I’m passionate about CI/CD, containerization, and monitoring solutions, and I’m committed to building scalable, reliable systems.
+I’m a DevOps enthusiast transitioning into a full-fledged DevOps Engineer, with a strong foundation in Python and system automation. My projects, including an NTP server monitoring script and a Flask-based alert system, demonstrate my expertise in monitoring, containerization, and API development. I’m passionate about CI/CD pipelines, cloud infrastructure, and observability, aiming to build reliable, scalable systems.
 
 🌍 Based in: India
-
 💼 Aspiring Role: DevOps Engineer
-
 📧 Email: amitkaushik337@gmail.com
-
-🔭 I’m currently working on NTP Server Monitoring Script and Flask Alert System
-
-🔭 Check my portfolio at amitkcodes.github.io
-
-🌱 I’m currently learning Kubernetes, AWS, Grafana, Prometheus
-
-👯 I’m looking to collaborate on DevOps and automation projects
-
-🤝 I’m looking for help with CI/CD pipelines and container orchestration
-
-📝 I regularly write about technical updates
-
-💬 Ask me about Python, Flask, Docker, Git, NTP
-
-📫 How to reach me amitkaushik337@gmail.com
-
-⚡ Fun fact I love tackling network synchronization challenges
-
+🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials] (update with your certifications)
+🔭 I’m currently working on NTP Server Monitoring and Flask Alert System
+🔭 Explore my portfolio at amitkcodes.github.io (https://amitkcodes.github.io/)
+🌱 I’m learning Kubernetes, AWS, Prometheus, Grafana, Terraform
+👯 I’m open to collaborating on DevOps, automation, and open-source projects
+🤝 I’m seeking mentorship in advanced CI/CD and cloud orchestration
+📝 I share insights on DevOps and automation (update with blog link)
+💬 Ask me about Python, Docker, Git, NTP, Flask, monitoring
+📫 Reach me at amitkaushik337@gmail.com
+⚡ Fun fact I geek out on perfecting system synchronization
 
 Projects
 NTP Server Monitoring Script
 
-Description: A Python script to monitor NTP servers (e.g., samay1.nic.in, 157.20.66.8) for synchronization accuracy. Logs offset data to CSV, sends alerts for 3 consecutive failures or high offsets (>0.01s), and supports rate-limiting and log rotation. Deployable via Docker for scalability.
+Description: A Python-based tool monitoring 16+ NTP servers (e.g., samay1.nic.in, 157.20.66.8) for time synchronization. Logs offsets to CSV, sends email alerts after 3 consecutive failures or high offsets (>0.01s), and supports rate-limiting and log rotation. Deployed in Docker for portability.
 Technologies: Python, ntplib, threading, logging, Docker, CSV
 Features:
-Monitors 16+ NTP servers with configurable intervals.
-Alerts via email for critical failures, with rate-limiting to prevent spam.
-Containerized for easy deployment.
+Configurable monitoring intervals and server list.
+Robust alerting with rate-limiting to avoid spam.
+Containerized deployment for scalability.
 
 
+Achievements: Collaborated with #Team NPL (Divya Singh Yadav, Dr. Deepak Sharma, Dr. Ashish Agrawal, Dr. Subhasis Panja) to ensure precise synchronization.
 Repository: github.com/amitkcodes/ntp-monitoring (update with actual link)
-Team: Developed with #Team NPL (Divya Singh Yadav, Dr. Deepak Sharma, Dr. Ashish Agrawal, Dr. Subhasis Panja)
+Demo: amitkcodes.github.io/ntp-demo (add demo if available)
+ (add after setting up workflow)
 
 Flask Alert System
 
-Description: A Flask API for sending real-time email and WhatsApp alerts to multiple recipients. Handles dynamic email lists, robust error handling (e.g., SMTP timeouts, JSON parsing), and integrates with Gmail SMTP and Twilio WhatsApp API.
+Description: A Flask REST API for real-time email and WhatsApp alerts to multiple recipients, integrated with Gmail SMTP and Twilio WhatsApp API. Features dynamic recipient lists and robust error handling (e.g., SMTP timeouts, JSON parsing errors).
 Technologies: Python, Flask, smtplib, twilio, REST API, JSON
 Features:
-Supports multiple recipients via POST requests.
+Handles multiple recipients via POST requests.
 Tested with cURL and VS Code for reliability.
-Extensible for other notification channels.
+Extensible for SMS or other channels.
 
 
+Achievements: Streamlined alert delivery for time-sensitive applications.
 Repository: github.com/amitkcodes/flask-alerts (update with actual link)
-Portfolio Demo: amitkcodes.github.io/flask-demo
+Demo: amitkcodes.github.io/flask-demo (add demo if available)
+ (add after setting up workflow)
 
-Add Your Project
+[Add Your Project, e.g., CI/CD Pipeline]
 
-Description: [Describe another project from LinkedIn, e.g., a CI/CD pipeline or AWS deployment]
-Technologies: [List tools, e.g., Jenkins, Terraform]
-Features: [Key functionalities]
-Repository: [Link to repo or portfolio]
+Description: [e.g., Automated CI/CD pipeline for a web app, deploying to AWS ECS with Jenkins and Docker] FiftyOne is an open-source tool for building high-quality datasets and computer vision models, offering visualization, evaluation, and debugging capabilities for machine learning workflows.
+Technologies: [e.g., Jenkins, Docker, AWS ECS, Terraform]
+Features: [e.g., Automated testing, containerized deployment, rollback support]
+Repository: github.com/amitkcodes/cicd-project (create and link)
+Demo: amitkcodes.github.io/cicd-demo (add demo if available)
 
-Connect with me:
+Connect with Me
 
 
+ (update with your profile)
 
 
-Languages and Tools:
+Languages and Tools
+
+
 
 
 
@@ -89,5 +86,4 @@ Languages and Tools:
 
 
  
-
 
