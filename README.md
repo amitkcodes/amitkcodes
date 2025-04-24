@@ -15,16 +15,16 @@ About Me
 💼 Role: Aspiring DevOps Engineer
 
 
-📧 Email: amitnplindia21@gmail.com
+📧 Email: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
 
-🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials] (update with your certifications)
+🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials]
 
 
 🔭 Current Projects: NTP Server Monitoring, Flask Alert System
 
 
-🔭 Portfolio: amitkcodes.github.io (update with custom domain)
+🔭 check my portfolio on [Portfolio](https://amitkcodes.github.io/)
 
 
 🌱 Learning: Kubernetes, AWS, Prometheus, Grafana, Terraform
@@ -36,13 +36,10 @@ About Me
 🤝 Seeking Mentorship: Advanced CI/CD, cloud orchestration
 
 
-📝 Sharing Insights: DevOps blog (update with link)
+📝 Sharing Insights: DevOps blog
 
 
-💬 Ask Me About: Python, Docker, Git, NTP, Flask, monitoring
-
-
-📫 Contact: amitnplindia21@gmail.com
+💬 Ask Me About: Python, Docker, Git, NTP, Flask API, monitoring
 
 
 ⚡ Fun Fact: I geek out on perfecting system synchronization
