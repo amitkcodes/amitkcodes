@@ -9,53 +9,53 @@
 
 About Me
 
-🌍 Location: India
+🌍 **Location:** India
 
 
-💼 Role: Aspiring DevOps Engineer
+💼 **Role:** **Aspiring DevOps Engineer**
 
 
 📧 Email: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
 
-🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials]
+🏆 **Certifications:** [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials]
 
 
-🔭 Current Projects: NTP Server Monitoring, Flask Alert System
+🔭 **Current Projects:** NTP Server Monitoring, Flask Alert System
 
 
-🔭 check my portfolio on [Portfolio](https://amitkcodes.github.io/)
+🔭 check my portfolio on [**Portfolio**](https://amitkcodes.github.io/)
 
 
-🌱 Learning: Kubernetes, AWS, Prometheus, Grafana, Terraform
+🌱 **Learning:* **Kubernetes**, AWS, Prometheus, **Grafana**, *Terraform**
 
 
-👯 Open to Collaborate: DevOps, automation, open-source projects
+👯 **Open to Collaborate:** DevOps, automation, open-source projects
 
 
-🤝 Seeking Mentorship: Advanced CI/CD, cloud orchestration
+🤝 **Seeking Mentorship:** Advanced CI/CD, cloud orchestration
 
 
-📝 Sharing Insights: DevOps blog
+📝 **Sharing Insights:** DevOps blog
 
 
-💬 Ask Me About: Python, Docker, Git, NTP, Flask API, monitoring
+💬 **Ask Me About:** Python, Docker, Git, NTP, Flask API, monitoring
 
 
-⚡ Fun Fact: I geek out on perfecting system synchronization
+⚡ **Fun Fact:** I geek out on perfecting system synchronization
 
 
 More About Me
 
 
-Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs
+**Hobbies:** Exploring open-source DevOps tools, reading cloud architecture blogs
 
 
-Goal: Become a Certified Kubernetes Administrator by 2026
+**Goal:** Become a **Certified Kubernetes Administrator** by 2026
 
 
 Connect with Me
-### 📫 How to reach me
+### 📫 **How to reach me**
  - 🌐 LinkedIn: [AMIT KAUSHIK](https://www.linkedin.com/in/amit-kaushik-507831150/)
 
  - 📧 Email: amitkaushik337@gmail.com
