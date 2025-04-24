@@ -59,6 +59,6 @@ Goal: Become a Certified Kubernetes Administrator by 2026
 
 Connect with Me
 ### 📫 How to reach me
- - 🌐 LinkedIn: [Laxman Singh Tomar](https://www.linkedin.com/in/amit-kaushik-507831150/)
+ - 🌐 LinkedIn: [AMIT KAUSHIK](https://www.linkedin.com/in/amit-kaushik-507831150/)
 
  - 📧 Email: amitkaushik337@gmail.com
