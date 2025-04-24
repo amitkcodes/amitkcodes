@@ -11,7 +11,7 @@ I’m a DevOps enthusiast transitioning into a full-fledged DevOps Engineer, wit
 🌍 Based in: India
 💼 Aspiring Role: DevOps Engineer
 📧 Email: amitnplindia21@gmail.com
-🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials] (update with your certifications)
+🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials]
 🔭 I’m currently working on NTP Server Monitoring and Flask Alert System
 🔭 Explore my portfolio at amitkcodes.github.io (update with custom domain)
 🌱 I’m learning Kubernetes, AWS, Prometheus, Grafana, Terraform
