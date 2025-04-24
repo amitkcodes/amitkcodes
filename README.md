@@ -135,7 +135,11 @@ img:hover {
   transition: transform 0.3s ease;
 }
 
+## Activity Overview
 
+<p align="center">
+  <img src="assets/activity-overview.png" alt="Activity Overview" />
+</p>
 Activity Overview
 
   
