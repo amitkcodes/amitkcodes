@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amit Kaushik</h1>
 
-<h3 align="center">Crafting scalable systems with automation and monitoring from India</h3>
+<h3 align="center">A passionate DevOps enthusiast and Python developer from India</h3>
   
 
   
