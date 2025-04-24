@@ -1,8 +1,8 @@
 
 
-Hi 👋, I'm Amit Kaushik
+<h1 align="center">Hi 👋, I'm Amit Kaushik</h1>
 
-Crafting scalable systems with automation and monitoring from India
+<h3 align="center">Crafting scalable systems with automation and monitoring from India</h3>
   
 
   
