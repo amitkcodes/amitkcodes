@@ -48,11 +48,12 @@ About Me
 ⚡ Fun Fact: I geek out on perfecting system synchronization
 
 
-
 More About Me
 
 
 Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs
+
+
 Goal: Become a Certified Kubernetes Administrator by 2026
 
 Projects
@@ -69,7 +70,7 @@ Containerized deployment for scalability
 
 
 Technologies: Python, ntplib, threading, logging, Docker, CSV
-Achievements: Collaborated with #Team NPL (Divya Singh Yadav, Dr. Deepak Sharma, Dr. Ashish Agrawal, Dr. Subhasis Panja)
+Achievements:惑Collaborated with #Team NPL (Divya Singh Yadav, Dr. Deepak Sharma, Dr. Ashish Agrawal, Dr. Subhasis Panja)
 Repository: github.com/amitkcodes/ntp-monitoring (update with actual link)
 Demo: amitkcodes.github.io/ntp-demo (add demo if available)
  (add after workflow)
@@ -133,6 +134,11 @@ img:hover {
   transform: scale(1.1);
   transition: transform 0.3s ease;
 }
+
+
+Activity Overview
+
+  
 
 
 
