@@ -80,23 +80,3 @@ Connect with Me
 
 
 Languages and Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-img:hover {
-  transform: scale(1.1);
-  transition: transform 0.3s ease;
-}
