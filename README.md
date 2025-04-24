@@ -10,16 +10,16 @@ I’m a DevOps enthusiast transitioning into a full-fledged DevOps Engineer, wit
 
 🌍 Based in: India
 💼 Aspiring Role: DevOps Engineer
-📧 Email: amitkaushik337@gmail.com
+📧 Email: amitnplindia21@gmail.com
 🏆 Certifications: [Great Learning DevOps Fundamentals, Coursera AWS Cloud Practitioner Essentials] (update with your certifications)
 🔭 I’m currently working on NTP Server Monitoring and Flask Alert System
-🔭 Explore my portfolio at amitkcodes.github.io (https://amitkcodes.github.io/)
+🔭 Explore my portfolio at amitkcodes.github.io (update with custom domain)
 🌱 I’m learning Kubernetes, AWS, Prometheus, Grafana, Terraform
 👯 I’m open to collaborating on DevOps, automation, and open-source projects
 🤝 I’m seeking mentorship in advanced CI/CD and cloud orchestration
 📝 I share insights on DevOps and automation (update with blog link)
 💬 Ask me about Python, Docker, Git, NTP, Flask, monitoring
-📫 Reach me at amitkaushik337@gmail.com
+📫 Reach me at amitnplindia21@gmail.com
 ⚡ Fun fact I geek out on perfecting system synchronization
 
 Projects
