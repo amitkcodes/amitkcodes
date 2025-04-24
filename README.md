@@ -68,22 +68,3 @@ Connect with Me
 
 
 Languages and Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
