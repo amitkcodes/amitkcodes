@@ -15,7 +15,7 @@
 
 I have been working as an Aspiring DevOps Engineer, specializing in Python and related technologies. My expertise lies in developing robust and scalable applications, integrating various tools, and ensuring the best system performance. I am always keen to learn new technologies and stay updated with the latest industry trends.
 
-<img align="right" with="300" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
+<img align="right" with="300" height="250" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
 
 - 🌍 **Location**: India
 
