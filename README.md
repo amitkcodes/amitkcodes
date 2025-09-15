@@ -17,7 +17,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 <img align="right" with="250" height="250" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
 
-- 🌍 **Location**: India
+- 🌍 **Location**: Delhi,India
 
 - 💼 **Role**: Aspiring DevOps Engineer
   
@@ -35,20 +35,6 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - 💬 Ask me about **Python, Docker, Git, NTP, Flask API, monitoring**
 
-
-<!-- ## Pinned Projects 📌
-- [amitkcodes.github.io](https://amitkcodes.github.io)  
-  _A personal portfolio showcasing my work._
-- [NTP_Server_Monitoring_Grafana-WAN-](https://github.com/amitkcodes/NTP_Server_Monitoring_Grafana-WAN-)  
-  _A Python-based NTP server monitoring system with Grafana integration._
-- [Network_Time_Display_Synchronization-Alert-System](https://github.com/amitkcodes/Network_Time_Display_Synchronization-Alert-System)  
-  _A Flask-based alert system for time synchronization._
-- [Certification_Completion](https://github.com/amitkcodes/Certification_Completion)  
-  _Repository tracking my certification progress._
-- [Firewall_Logs_data_filter-Visualization](https://github.com/amitkcodes/Firewall_Logs_data_filter-Visualization)  
-  _Python script for filtering and visualizing firewall logs._
-- [Global_server_monitoring_Status](https://github.com/amitkcodes/Global_server_monitoring_Status)  
-  _Monitoring tool for global server status._ -->
 
 ## Goals 🎯
 - Become a Certified Kubernetes Administrator by 2026  
