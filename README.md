@@ -6,9 +6,9 @@
 <h3 align="center">Empowering Tomorrow with Professional DevOps and Python Solutions</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkcodes&label=Profile%20views&color=0e75b6&style=flat" alt="amitkcodes" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkcodes&label=Profile%20views&color=0e75b6&style=flat" alt="amitkcodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkcodes" alt="amitkcodes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkcodes" alt="amitkcodes" /></a> </p> -->
 
 
 ## About Me
